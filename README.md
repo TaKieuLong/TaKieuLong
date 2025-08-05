@@ -4,9 +4,8 @@
 ---
 
 - 🌱 I’m currently learning **NestJS, Golang and AWS**
-- 👨‍💻 All of my projects are available at [https://github.com/hoanglong29](https://github.com/hoanglong29)
-- 💬 Ask me about **TypeScript, REST API, Clean Architecture**
-- 📫 How to reach me: **your_email@gmail.com**
+- 👨‍💻 All of my projects are available at [https://github.com/TaKieuLong](https://github.com/TaKieuLong)
+- 📫 How to reach me: **takieulong@gmail.com**
 - ⚡ Fun fact: I love building things from scratch
 
 ---
@@ -24,23 +23,15 @@
 ### 🧠 Projects I'm proud of:
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [🏨 Trothalo](https://github.com/hoanglong29/trothalo) | Website đặt phòng khách sạn giống Booking | Golang, Gin, PostgreSQL |
-| [📚 Course App](https://github.com/hoanglong29/course-app) | Nền tảng học online (backend + frontend) | NestJS, Next.js, AWS S3 |
-| [🔐 Auth Starter](https://github.com/hoanglong29/auth-nestjs) | Mẫu project đăng nhập bằng JWT + Role-based | NestJS, Prisma, PostgreSQL |
+| [🏨 Trothalo](https://github.com/TaKieuLong) | Website đặt phòng khách sạn giống Booking | Golang, Gin, PostgreSQL |
+
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoanglong29&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoanglong29&theme=tokyonight" />
-</p>
-
----
 
 ### 📫 Contact me
 
-- Email: **your_email@gmail.com**
-- LinkedIn: [linkedin.com/in/hoanglong29](https://linkedin.com/in/hoanglong29)
+- Email: **takieulong@gmail.com**
+
 
